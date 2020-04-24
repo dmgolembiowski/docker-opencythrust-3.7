@@ -11,7 +11,7 @@ twistedfall also supports these non-free implementations](https://github.com/twi
 
 ### Instructions
 
-```bash
+```
 docker run -it dmgolembiowski/opencythrust-3.7:contrib bash
 root@a1b2c3d4 # python3
 >>> import cv2
