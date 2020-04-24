@@ -24,6 +24,9 @@ root@a1b2c3d4 # python3
 - [twistedfall](https://github.com/twistedfall/opencv-rust)
 
 ### Roadmap
-> Integrate this Dockerfile build with one that supports Nvidia-GPU computing out of the box
-> Develop sections responsible for installing XCode and Android SDK binaries to support local builds and native cloud deployments
-> Maybe tying this build together with some additional helper-scripts that facilitate simpler integrations with Weld and PyO3
+
+> Integrate this Dockerfile build with one that supports Nvidia-GPU computing out of the box <br />
+
+> Develop sections responsible for installing XCode and Android SDK binaries to support local builds and native cloud deployments <br />
+
+> Maybe tying this build together with some additional helper-scripts that facilitate simpler integrations with Weld and PyO3 <br />
