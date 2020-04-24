@@ -1,7 +1,5 @@
 # Opencythrust-3.7 for Docker
-> A helpful Dockerfile for developers looking to prototype an OpenCV-Python for version 3.7, then rewrite the final version in Rust. It leverages the [opencv-rust](https://github.com/twistedfall/opencv-rust) by twistedfall and kali,
- as well as [opencv-python](https://github.com/skvark/opencv-python) while simultaneously making 
-the build process for the development environment 100% pain-free!
+> A helpful Dockerfile for developers looking to prototype an OpenCV-Python for version 3.7, then rewrite the final version in Rust. It leverages the [opencv-rust](https://github.com/twistedfall/opencv-rust) by twistedfall and kali, [opencv-python](https://github.com/skvark/opencv-python), and others (see Credits). It tries to make the environment setup process 100% pain-free!
 
 This Docker pod would not be possible without mikigom's game-changing 
 [pull request](https://github.com/janza/docker-python3-opencv/pull/28) which allows for an OpenCV-contrib
